@@ -1,0 +1,6 @@
+channel,visits,signup_started,signup_completed,account_opened,activated,pct_visit_to_start,pct_start_to_complete,pct_complete_to_opened,pct_opened_to_activated,pct_visit_to_activated
+Paid Search,59161,8354,4846,3405,1841,14.1,58.0,70.3,54.1,3.11
+SEO,96055,6686,3845,2731,1605,7.0,57.5,71.0,58.8,1.67
+Referral,12262,3240,2229,1815,1289,26.4,68.8,81.4,71.0,10.51
+Partnerships,17101,3472,2241,1785,1194,20.3,64.5,79.7,66.9,6.98
+Paid Social,78745,7846,3490,1958,762,10.0,44.5,56.1,38.9,0.97
